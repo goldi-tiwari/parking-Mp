@@ -1,0 +1,49 @@
+.background_img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://www.parking.illinois.edu/sites/default/files/2020-07/maps-banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: scroll;
+
+}
+.header1{
+    display: flex;
+     justify-content: space-between;
+     width: 100%;
+     height: 10%;
+     background: linear-gradient(to right, #a2b42f, #f5ffb7,#a2b42f );
+
+}
+.Back{
+   margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 40px;
+}
+
+.bt{
+    height: 50px;
+    width: 300px;
+    /* background-color:#1B5E20; */
+    background: linear-gradient(to right, #1e3b26, #1B5E20);
+    color: white;
+    margin-right: 20px;
+    margin-top: 30px;
+    font-size: 70px;
+}
+.Ragistar{
+    margin-top: 15px;
+    margin-right: 20px;
+    border-radius: 50px;
+   
+} 
+.lot{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-left: 30px;
+}
+
